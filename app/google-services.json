@@ -1,0 +1,3350 @@
+{
+  "project_info": {
+    "project_number": "991786302088",
+    "firebase_url": "https://geniusnine-apps.firebaseio.com",
+    "project_id": "geniusnine-apps",
+    "storage_bucket": "geniusnine-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:be00cae39176d899",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.geniusnineapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-q8sf4j1t69219qe1tuhtddqohhl6u89c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.geniusnineapps",
+            "certificate_hash": "5cb10947d60c975bc361ffec0d92e63e7a22f8b5"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:f165b26929cd0ba4",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.hindijokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-gv49rk02cunpthc4gtis5eghdt2dso6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.hindijokes",
+            "certificate_hash": "68a394db6a171a6fa86e351c4edfa0c70fae56ac"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:770730fa8ce543ef",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.marathijokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-3n1is5esjvanigf76lddp5824eu6km64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.marathijokes",
+            "certificate_hash": "5cb10947d60c975bc361ffec0d92e63e7a22f8b5"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:3fd2bfd265ae5e56",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.azuretester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-5qfhqi9ub9l5u60vme4n8jsl499c52d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.azuretester",
+            "certificate_hash": "5cb10947d60c975bc361ffec0d92e63e7a22f8b5"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:1cdce40175113864",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.marathikavita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-c9cet4uh0ben0i67dvn3fjv6bnq5gd80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.marathikavita",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:f7cd0b93856bacf9",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.shayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-ai2p85nkhtorr5rd2a9l1c3ekcfl5l7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.shayari",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:9e18ecffdbc0c485",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.weightlosscalculators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-r1bpkod90s6emgqn64rnka556ak15b07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.weightlosscalculators",
+            "certificate_hash": "7c0ed0d3b38514773ef740815e9950238f52c1a2"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:4f54975b6cc6ccf3",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-mheph32gmd88fn6tk3crbcjari5bkdvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.bmi",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:f47073e7f567bfd3",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.lovecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-mtev41v2c25j9jvmbetltsdf867v9dgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.lovecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:9d9232a837960046",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.bmr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-bnvbltcr0tu8ve0vd80a0cr4glbn5h43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.bmr",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:690d0edadd743caa",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.idealweight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-o80rg2kkdje7g4vu44mrlmmlglrfal9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.idealweight",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:5faf8e6dcb5de584",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.windchillcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-mteuqi7iuat4hblvf55n0pno986iclgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.windchillcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:dbd1fa4e083d1249",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.fat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-e5o03jfhjkv2aperdfagscsjclt0rfhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.fat",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:301c4da66447e7ed",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.weight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-7ag6ag2vm5i7ql1eeocng5kv36pjdu0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.weight",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:9d0f2df1027054b1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.anorexicbmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-vjcv55dgn7eo4l1v0efsa3ej49sa0244.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.anorexicbmi",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:d71feb77227f45e4",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.armybodyfat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-c933m26gt9rj787drg3g6lio1i3rc8g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.armybodyfat",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:9fc683b359cf78d1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.bodyfat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-r9p4oa5cif9i9l8au02nvat4tt30kvt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.bodyfat",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:3d28fa9564c259e3",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.healthyweightcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-hr4tqk8fbvg2sm7lp8djgf4ha1kj006i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.healthyweightcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:3f1226b962e36be9",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.leanbodymass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-n974u5v2q1qdlaj9id1q2btkqv6np957.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.leanbodymass",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:6ea6e0882e31ee17",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.caloriecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-4oh5qfdm3qrj10aj7ll66bogei308aj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.caloriecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:575249d28c4b9234",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.ohmslawcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-m5jgdao1npk4ohl4c510bjo3dhn46slk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.ohmslawcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:c4957ac62094dbad",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.carbohydratecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-h3icsoilhed1169uvgbcovkpsns23td9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.carbohydratecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:b1ac9da6be18ee18",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.fatintakecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-dhsicktbdsvpu447uu09lk4vkj9lf0fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.fatintakecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:0789d2fbbc8626e0",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.horsepowercalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-6kg311lns3q90a31b2445n5tbcoop3u1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.horsepowercalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:8f4b371e4445adbf",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.taxcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-lm4qmqp7v1r2no5gioqh02n9mdlj77f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.taxcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:979b6f918c3e1a32",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.financialcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-gk3oj1pqqibmrci3qoui4gcf2hbjbucl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.financialcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:18c9c5cd369b168b",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.fuelcostcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-ho7r19l55rnjed3627j99edmrs9fsth5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.fuelcostcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:bae4822711ed4702",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.andrioddev5.personalloancalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-bhfpse0mi1uqmpb5vtu1ce8klfpn02d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.andrioddev5.personalloancalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:ff305689630d119b",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.heightpredictorcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-99ai77ceeval611k0ruuj9hg0mfb9pa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.heightpredictorcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:62e97d9f21a480de",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.incometax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-m63fia30t0nnkl175vd0m2e01crfcodg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.incometax",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:8a0fa9a7a87a3f9a",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.andrioddev5.paymentcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-c073ckl1p8vlsfcs7j7fdun3u842jiil.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.andrioddev5.paymentcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:5914c17ea12ada00",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.advancedtaxcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-eh5f7pqjqttjs2otgj4fnk6t4hb9soc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.advancedtaxcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:aa7642d619582968",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.salestaxcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-muk1954p2hn96lb7etphiubsm9qnlhs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.salestaxcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:d51d1a01b21e9347",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.vatcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-mfcijl4p7540qskr250u3sh1899o4ut4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.vatcalc",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:3b6a667ca6627b77",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.gstcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-sb2gkd6nbq5rq3ugevh2hspdi6bf6n7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.gstcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:696d1d683f65ff51",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.estatecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-65n3c3rqqh6ecdvtfg5suivnkb5b628m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.estatecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:1e45604dbd61a376",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.andrioddev5.percentagecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-iofgdpnub5vsi2a594dsd5vp7voqafqq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.andrioddev5.percentagecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:4b7fa9d7c6467b2e",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.andrioddev5.margincalcualtor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-stm99dr0lg68ieub3rq0smfhsfb92gu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.andrioddev5.margincalcualtor",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:f35f0ffa409b8ac9",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.businesscalcualtors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-q4obhf3r4bqgcmfbfrkd2lbtnpe9arhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.businesscalcualtors",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:8fc29e63ef24a349",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.tilescalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-p6sg0957onjidbe3s1a3tj3g98untsuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.tilescalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:1f6586686cbb4dbc",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.gasmileagecalci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:712d84ff7084fc44",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.binarycalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-0k1oomkhmnhtuemqch8rjvd0b6klla9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.binarycalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:8c6b28ddf0eee5d1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.golfhandicapindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-mj6kktt51j9g84mgp2j8emtbn4ngqif6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.golfhandicapindex",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:c2c7c90de614c25f",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.halflifecalci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-aseq3r1ibbd3orok3fdpaut6m5gn7skq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.halflifecalci",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:0b3be6ce30d7209a",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.hexcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-a3fclqgj1ps07mr8dkjnkn39iqntt4fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.hexcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:7f1f38692b830a2d",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.gradepointercalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-fhq7o537gd1mb7j56v3tco1hljrr53fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.gradepointercalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:f38c794dfa3d858f",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.quadraticformulacalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-0mheirvoqif5p32bfgt6jfh2084ga38t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.quadraticformulacalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:61a108a2e77a982f",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.exponentcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-o3nm4r6l88cmah7eo43oqns35u9t301c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.exponentcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:fe1ffb00e2bfaac1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.loancomparisoncalcualtor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-5slqfpbc66vunjn5kot6qv0r1me4d66q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.loancomparisoncalcualtor",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:ec25b7f3b9effccb",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.geniusnineforums"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-l0ss2qt32gd50mg2si57ur902klv0n2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.geniusnineforums",
+            "certificate_hash": "68a394db6a171a6fa86e351c4edfa0c70fae56ac"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:466b9ecb7ab476a1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.loancalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-bdq71jk5kji38u6g89epkb023lfuqo0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.loancalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:b77b543bcf1bb47f",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.logcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-1oh6co1m11lknc110al2be0e5dr6u2ah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.logcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:9d46d02b1709acff",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.ratiocalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-iddskmni75951l5v44ih7uht5dfi6pct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.ratiocalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:3e2ec86da4e2d2b2",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.rootcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-86bgtr4uckva9pli7kub0m0a39os0buj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.rootcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:92c1f30d8c3e4c27",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.otherscalculators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-5p8804fl2duj9hg6ete53m4mkglpfihu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.otherscalculators",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:7c2aad2f91763a5a",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.fractioncalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-r9ok5ac2j471kj25r49il3ailb9horq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.fractioncalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:b3c7628c8ba80e88",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.greatestcommonfactorcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-930c8as5jgql77d1q98krdnmlo2og1no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.greatestcommonfactorcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:73c4d44075886e88",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.percentageerrorcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-1bthvdmg0luhksqced351hn2b6ciserl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.percentageerrorcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:6e88ee778fa43f6d",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.leastcommonmultiplecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-ldblbfg7grtvb8obpk8gaf3oe253upbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.leastcommonmultiplecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:8270f3f85668478d",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.datecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-ge3q8709usc5cedogslpce51ka3cv4k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.datecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:b73a08edb560e0ab",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.densitycalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-173pi3usc26lec40h0959863b070cmqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.densitycalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:0f7f00e8ec91908b",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.protein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-1snn2hei8agrbpuiiqbncdocsoilc48a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.protein",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:d4af89b9f370cf8c",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.masscalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-q5oobg0r6herri0g2pb04cfajten2lft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.masscalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:f7ee62b939d303ce",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.squarefootagecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-75joj1taf266umoretjtlmnerdblul25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.squarefootagecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:aea36e55bf14747a",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.grossdomesticproductcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-3ga8v4ka62t3hqskloviv6blsope3btl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.grossdomesticproductcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:085fef257215444d",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.gfr_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-im41s5jmqq69h3r113rvge774vd5qt17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.gfr_calculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:fae19fe14f22ba3c",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.timecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-bb69hm5lihvkjsg56kv4prd0gm2of1fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.timecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:316d5c06c4b66d55",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.voltagedropcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-h1rkdp5tjk4v60nobsn51erg0abprr2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.voltagedropcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-98vhbq5fbcnquaclpb8920j9qhlpslca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "72429f1c5dd76bf31b74ee537dfe9b75dfbe71e6"
+          }
+        },
+        {
+          "client_id": "991786302088-67vtr0uqjsnnt8rpubhfnouq3pcifrdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "68a394db6a171a6fa86e351c4edfa0c70fae56ac"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:20f7b5d6fa602dd1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.surfacearea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-kvh12lbmp7koa6eg7ukcdkvjb3q3btb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.surfacearea",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:85f45b5cb2af02a1",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.resistorcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-m4r2h0ai4odcvv1vood847l6p90dm6q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.resistorcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:ca27dc9f0153ef99",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.timezonecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-a6usibf13qo7lt2j2aedegug39f2q2gu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.timezonecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:15f92e2f0a31dc03",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.gradecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-ek1ugtt2c70hcac93c2eufqbvurkerpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.gradecalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:496170b30853acf3",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.heatindexcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-41fee9j3td36jt6ruso2dq9pft3fstpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.heatindexcalculator",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:6d8f458c3c7db91b",
+        "android_client_info": {
+          "package_name": "com.nineinfosys.android.unitconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-jgl7qb4d06lh4vf218br9844cvkihll4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nineinfosys.android.unitconverter",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991786302088:android:8821a090c6cbff4c",
+        "android_client_info": {
+          "package_name": "com.geniusnine.android.mathcalculators"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991786302088-e3ro8pqqftvegfss9unk1c0l567fa3ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geniusnine.android.mathcalculators",
+            "certificate_hash": "55f4bf89d0f70ba18d01ede5814e5824d57779aa"
+          }
+        },
+        {
+          "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRx-XvSylXVzIHuNCsqrXAXTpwYiHH6qg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991786302088-3cln84i4v0c8eclm6vo67kf1fubvccdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
