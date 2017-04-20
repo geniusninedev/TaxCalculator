@@ -14,7 +14,7 @@ public class RecentPostsFragment extends PostListFragment {
         // due to sorting by push() keys
 
          Query recentPostsQuery = databaseReference.child("posts")
-                .limitToFirst(60);
+                .limitToFirst(50);
         // [END recent_posts_query]
 
         return recentPostsQuery;

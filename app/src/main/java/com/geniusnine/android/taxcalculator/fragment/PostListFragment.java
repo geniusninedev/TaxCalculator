@@ -50,31 +50,18 @@ public abstract class PostListFragment extends Fragment {
         // [START create_database_reference]
         mDatabase = FirebaseDatabase.getInstance().getReference().child(getString(R.string.app_id)).child("Forum");
         // [END create_database_reference]
-        mSwipeRefresh = (SwipeRefreshLayout)rootView.findViewById(R.id.swipeRefresh);
         mDatabase.keepSynced(true);
         mRecycler = (RecyclerView) rootView.findViewById(R.id.messages_list);
 
 
         mRecycler.setHasFixedSize(true);
 
-        mSwipeRefresh.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
-            @Override
-            public void onRefresh() {
-                refreshItems();
-            }
-        });
+
         return rootView;
     }
 
 
-    void refreshItems() {
-        onItemsLoadComplete();
-    }
 
-    void onItemsLoadComplete() {
-        onActivityCreated(Bundle.EMPTY);
-        mSwipeRefresh.setRefreshing(false);
-    }
 
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {

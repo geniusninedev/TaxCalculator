@@ -53,11 +53,11 @@ public class GetApp extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_rate_us);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.app_bar);
+     /*   Toolbar toolbar = (Toolbar) findViewById(R.id.app_bar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setHomeButtonEnabled(true);
-        getSupportActionBar().setTitle("Get App");
+        getSupportActionBar().setTitle("Get App");*/
 
 
         editTextdevice = (EditText)findViewById(R.id.editTextDevice);

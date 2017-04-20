@@ -14,7 +14,7 @@
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    
+
     <application
         android:name=".LoginActivity.CustomApplication"
         android:allowBackup="true"
@@ -170,7 +170,7 @@
             android:label="@string/add_post">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value=".Forum.ForumActivity" />
         </activity>
         <activity
             android:name=".Forum.PostDetailActivity"
@@ -188,6 +188,10 @@
                 android:value=".MainActivity" />
         </activity>
         <activity android:name=".Profile.ProfileActivity"></activity>
+
+        <activity android:name=".DashBord.GetApp"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="Customize Your Own App"></activity>
     </application>
 
 </manifest>

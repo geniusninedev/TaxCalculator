@@ -18,11 +18,6 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class ForumActivity extends BaseActivity {
-
-
-    private static final String TAG = "MainActivity";
-    private FirebaseAuth mAuth;
-    private FirebaseAuth.AuthStateListener firebaseAuthListner;
     private FragmentPagerAdapter mPagerAdapter;
     private ViewPager mViewPager;
     @Override

@@ -17,7 +17,7 @@
         android:layout_marginTop="16dp"
         android:hint="Title"
         android:maxLines="1"
-        android:layout_below="@id/app_bar"/>
+        />
 
     <EditText
         android:id="@+id/field_body"

@@ -19,6 +19,7 @@ import com.geniusnine.android.taxcalculator.LoginActivity.User;
 import com.geniusnine.android.taxcalculator.R;
 import com.geniusnine.android.taxcalculator.models.Comment;
 import com.geniusnine.android.taxcalculator.models.Post;
+import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -47,7 +48,7 @@ public class PostDetailActivity extends BaseActivity implements View.OnClickList
     private EditText mCommentField;
     private Button mCommentButton;
     private RecyclerView mCommentsRecycler;
-
+    private User user = new User();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -312,4 +313,5 @@ public class PostDetailActivity extends BaseActivity implements View.OnClickList
         }
 
     }
+
 }

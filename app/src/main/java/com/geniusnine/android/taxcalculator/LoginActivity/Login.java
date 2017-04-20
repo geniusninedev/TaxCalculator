@@ -519,7 +519,7 @@ public class Login extends AppCompatActivity {
         DatabaseReference current_user_db = mDataBase.child(user_id);
         current_user_db.child("name").setValue(user.getName());
         current_user_db.child("FacebookId").setValue(user.getId());
-        current_user_db.child("Email").setValue(user.getEmail());
+        current_user_db.child("email").setValue(user.getEmail());
        // current_user_db.child("Gender").setValue(user.getGender());
     }
 
@@ -528,7 +528,7 @@ public class Login extends AppCompatActivity {
         DatabaseReference current_user_db = mDataBaseGoogle.child(user_id);
         current_user_db.child("name").setValue(user.getName());
         current_user_db.child("GoogleId").setValue(user.getId());
-        current_user_db.child("Email").setValue(user.getEmail());
+        current_user_db.child("email").setValue(user.getEmail());
 
     }
 }
