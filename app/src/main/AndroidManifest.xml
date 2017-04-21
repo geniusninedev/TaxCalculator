@@ -177,7 +177,7 @@
             android:label="@string/comment">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value=".Forum.ForumActivity" />
         </activity>
         <activity
             android:name=".Forum.ForumActivity"
@@ -187,11 +187,9 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-        <activity android:name=".Profile.ProfileActivity"></activity>
-
         <activity android:name=".DashBord.GetApp"
             android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:label="Customize Your Own App"></activity>
+            android:label="Get App"></activity>
     </application>
 
 </manifest>

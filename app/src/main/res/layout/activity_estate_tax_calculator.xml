@@ -499,8 +499,7 @@
                     android:layout_marginRight="2dp"
                     android:layout_marginLeft="2dp"
                     android:layout_weight="1"
-                    android:background="@drawable/sal"
-                    android:backgroundTint="#2E86C1"
+                    android:background="@color/colorPrimary"
                     android:text="Info"
                     android:textColor="#ffffff"
                     android:textStyle="bold" />
@@ -515,8 +514,7 @@
                     android:layout_marginRight="2dp"
                     android:layout_marginLeft="2dp"
                     android:layout_weight="1"
-                    android:background="@drawable/sal"
-                    android:backgroundTint="#2E86C1"
+                    android:background="@color/colorPrimary"
                     android:text="Reset"
                     android:textColor="#ffffff"
                     android:textStyle="bold" />
@@ -529,8 +527,7 @@
                     android:layout_marginRight="2dp"
                     android:layout_marginLeft="2dp"
                     android:layout_weight="1"
-                    android:background="@drawable/sal"
-                    android:backgroundTint="#2E86C1"
+                    android:background="@color/colorPrimary"
                     android:text="Calculate"
                     android:textColor="#ffffff"
                     android:textStyle="bold" />

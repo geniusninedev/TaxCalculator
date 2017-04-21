@@ -25,7 +25,7 @@
         android:background="#ffffff"
         android:textAppearance="?attr/textAppearanceListItem"
         android:textSize="22sp"
-        app:itemTextColor="#000000"
+        app:itemTextColor="@android:color/black"
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer"
         />

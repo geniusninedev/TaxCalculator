@@ -16,9 +16,7 @@ import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
-import android.support.v4.app.FragmentTransaction;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.util.Log;
@@ -33,24 +31,14 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.WindowManager;
-import android.widget.AdapterView;
 import android.widget.GridView;
-
 import com.facebook.login.LoginManager;
-import com.geniusnine.android.taxcalculator.AdvanceIncomeTaxCalculator.AdvanceIncomeTaxCalculator;
 import com.geniusnine.android.taxcalculator.Calculators.CalculatorFragment;
 import com.geniusnine.android.taxcalculator.Calculators.CustomAdapter;
 import com.geniusnine.android.taxcalculator.DashBord.GetApp;
-import com.geniusnine.android.taxcalculator.EstateTaxCalculator.EstateTaxCalculator;
 import com.geniusnine.android.taxcalculator.Feeds.DashBord;
 import com.geniusnine.android.taxcalculator.Forum.ForumActivity;
-import com.geniusnine.android.taxcalculator.GstTaxCalculator.GstTaxCalculator;
-import com.geniusnine.android.taxcalculator.IncomeTaxCalculator.IncomeTaxCalculator;
 import com.geniusnine.android.taxcalculator.LoginActivity.Login;
-import com.geniusnine.android.taxcalculator.LoginActivity.User;
-import com.geniusnine.android.taxcalculator.Profile.ProfileActivity;
-import com.geniusnine.android.taxcalculator.SalesTaxCalculator.SalesTaxCalculator;
-import com.geniusnine.android.taxcalculator.VatTaxCalculator.VatTaxCalculator;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -63,11 +51,6 @@ import static android.Manifest.permission.WRITE_CONTACTS;
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
-    private CustomAdapter mAdapter;
-    private ArrayList<String> listCalculator;
-    private ArrayList<Integer> listCount;
-
-    private GridView gridView;
     private static final String TAG = "MainActivity";
     private static final int PERMISSION_REQUEST_CODE = 200;
     private FragmentPagerAdapter mPagerAdapter;
@@ -166,9 +149,7 @@ public class MainActivity extends AppCompatActivity
     public boolean onNavigationItemSelected(MenuItem menuItem) {
         // Handle navigation view item clicks here.
 
-        if (menuItem.getItemId() == R.id.profile) {
-            startActivity(new Intent(MainActivity.this, ProfileActivity.class));
-        } else if (menuItem.getItemId() == R.id.Share) {
+      if (menuItem.getItemId() == R.id.Share) {
 
             final String appPackageName = getPackageName();
             Intent intent = new Intent(Intent.ACTION_SEND);

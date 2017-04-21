@@ -24,20 +24,19 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.MutableData;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.Transaction;
-import com.google.firebase.database.ValueEventListener;
 
 public abstract class PostListFragment extends Fragment {
 
     private static final String TAG = "PostListFragment";
-    private ValueEventListener mConnectedListener;
+
     // [START define_database_reference]
     private DatabaseReference mDatabase;
     // [END define_database_reference]
+
     private FirebaseRecyclerAdapter<Post, PostViewHolder> mAdapter;
     private RecyclerView mRecycler;
     private LinearLayoutManager mManager;
     private SwipeRefreshLayout mSwipeRefresh;
-
     public PostListFragment() {
     }
 
@@ -50,18 +49,29 @@ public abstract class PostListFragment extends Fragment {
         // [START create_database_reference]
         mDatabase = FirebaseDatabase.getInstance().getReference().child(getString(R.string.app_id)).child("Forum");
         // [END create_database_reference]
-        mDatabase.keepSynced(true);
+
+        mSwipeRefresh = (SwipeRefreshLayout)rootView.findViewById(R.id.swipeRefresh);
         mRecycler = (RecyclerView) rootView.findViewById(R.id.messages_list);
-
-
         mRecycler.setHasFixedSize(true);
 
-
+        mSwipeRefresh.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
+            @Override
+            public void onRefresh() {
+                refreshItems();
+            }
+        });
         return rootView;
     }
 
+    void refreshItems() {
+        onItemsLoadComplete();
+    }
 
+    void onItemsLoadComplete() {
 
+        mRecycler.setAdapter(mAdapter);
+        mSwipeRefresh.setRefreshing(false);
+    }
 
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {
@@ -119,7 +129,6 @@ public abstract class PostListFragment extends Fragment {
                 } else {
                     viewHolder.likeView.setTextColor(getActivity().getResources().getColor(R.color.secondary_text));
                 }
-
 
                 // Bind Post to ViewHolder, setting OnClickListener for the star button
                 viewHolder.bindToPost(model, new View.OnClickListener() {

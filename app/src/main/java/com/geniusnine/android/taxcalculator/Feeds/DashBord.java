@@ -91,7 +91,7 @@ public class DashBord extends Fragment {
                 try {
 
                     try {
-                        URL url = new URL("https://www.taxmann.com/rss/news.ashx");
+                        URL url = new URL("http://feeds.feedburner.com/tax-newsindia");
                        // http://www.womenshealthandfitness.com.au/component/obrss/weight-loss
                         XmlPullParserFactory factory = XmlPullParserFactory.newInstance();
                         factory.setNamespaceAware(false);

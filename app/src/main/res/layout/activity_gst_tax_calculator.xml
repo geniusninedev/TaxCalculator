@@ -140,8 +140,7 @@
 
                 <Button
                     android:text="Info"
-                    android:background="@drawable/sal"
-                    android:backgroundTint="#2E86C1"
+                    android:background="@color/colorPrimary"
                     android:textStyle="bold"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
@@ -154,8 +153,7 @@
 
                 <Button
                     android:text="Reset"
-                    android:background="@drawable/sal"
-                    android:backgroundTint="#2E86C1"
+                    android:background="@color/colorPrimary"
                     android:textStyle="bold"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
@@ -167,8 +165,7 @@
 
                 <Button
                     android:text="Calculate"
-                    android:background="@drawable/sal"
-                    android:backgroundTint="#2E86C1"
+                    android:background="@color/colorPrimary"
                     android:textStyle="bold"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
