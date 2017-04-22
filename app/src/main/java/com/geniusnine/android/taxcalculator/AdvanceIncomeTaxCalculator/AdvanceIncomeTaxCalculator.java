@@ -383,7 +383,6 @@ public class AdvanceIncomeTaxCalculator extends AppCompatActivity {
 
     }
 
-
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
@@ -392,17 +391,12 @@ public class AdvanceIncomeTaxCalculator extends AppCompatActivity {
         int id = item.getItemId();
         //noinspection SimplifiableIfStatement
         if (id == android.R.id.home) {
-            Intent intent=new Intent(AdvanceIncomeTaxCalculator.this,MainActivity.class);
-            finish();
-            startActivity(intent);
 
+            finish();
 
         }
-
-
         return super.onOptionsItemSelected(item);
     }
-
 
 }
 
