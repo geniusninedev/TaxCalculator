@@ -62,16 +62,13 @@ public class ForumActivity extends BaseActivity {
             }
         });
     }
+
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
         if (newConfig.orientation == Configuration.ORIENTATION_LANDSCAPE) {
-            this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
-            // do what you want
         }
         else if (newConfig.orientation == Configuration.ORIENTATION_PORTRAIT) {
-            this.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
-            // do what the other thing you want
         }
 
     }

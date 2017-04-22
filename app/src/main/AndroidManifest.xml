@@ -167,6 +167,7 @@
         </activity>
         <activity
             android:name=".Forum.NewPostActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/add_post">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
@@ -174,6 +175,7 @@
         </activity>
         <activity
             android:name=".Forum.PostDetailActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
             android:label="@string/comment">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

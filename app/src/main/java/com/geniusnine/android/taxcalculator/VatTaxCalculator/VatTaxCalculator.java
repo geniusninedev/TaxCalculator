@@ -31,9 +31,9 @@ public class VatTaxCalculator extends AppCompatActivity {
     DecimalFormat f = new DecimalFormat("##.00");
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_vat_tax_calculator);
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_vat_tax_calculator);
 
         MobileAds.initialize(VatTaxCalculator.this, getString(R.string.ads_app_id));
         AdView mAdView = (AdView) findViewById(R.id.adViewVatCalculator);
