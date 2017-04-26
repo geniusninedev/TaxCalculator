@@ -1,5 +1,6 @@
 package com.geniusnine.android.taxcalculator.fragment;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -32,7 +33,7 @@ public abstract class PostListFragment extends Fragment {
     // [START define_database_reference]
     private DatabaseReference mDatabase;
     // [END define_database_reference]
-
+    ProgressDialog loading;
     private FirebaseRecyclerAdapter<Post, PostViewHolder> mAdapter;
     private RecyclerView mRecycler;
     private LinearLayoutManager mManager;
@@ -83,7 +84,7 @@ public abstract class PostListFragment extends Fragment {
         mManager.setStackFromEnd(true);
         mRecycler.setLayoutManager(mManager);
 
-
+        loading = ProgressDialog.show(getActivity(), "Please wait...","Fetching data...",false,false);
         // Set up FirebaseRecyclerAdapter with the Query
         Query postsQuery = getQuery(mDatabase);
         mAdapter = new FirebaseRecyclerAdapter<Post, PostViewHolder>(Post.class, R.layout.item_post,
@@ -144,7 +145,7 @@ public abstract class PostListFragment extends Fragment {
                         onStarClicked(userPostRef);
                     }
                 });
-
+                loading.dismiss();
                 mAdapter.registerAdapterDataObserver(new RecyclerView.AdapterDataObserver() {
                     @Override
                     public void onItemRangeInserted(int positionStart, int itemCount) {

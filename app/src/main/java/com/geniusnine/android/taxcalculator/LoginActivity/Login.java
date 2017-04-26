@@ -24,12 +24,9 @@ import com.facebook.FacebookException;
 import com.facebook.FacebookSdk;
 import com.facebook.GraphRequest;
 import com.facebook.GraphResponse;
-import com.facebook.appevents.AppEventsLogger;
 import com.facebook.login.LoginManager;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
-import com.geniusnine.android.taxcalculator.MainActivity;
-import com.geniusnine.android.taxcalculator.R;
 import com.google.android.gms.auth.api.Auth;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
@@ -47,9 +44,10 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
+import com.geniusnine.android.taxcalculator.MainActivity;
+import com.geniusnine.android.taxcalculator.R;
 
 import org.json.JSONObject;
-
 
 public class Login extends AppCompatActivity {
 
@@ -71,10 +69,7 @@ public class Login extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-      /*  Firebase.setAndroidContext(this);
-        FacebookSdk.sdkInitialize(getApplicationContext());*/
         setContentView(R.layout.activity_login);
-        /*AppEventsLogger.activateApp(this);*/
 
         mAuth = FirebaseAuth.getInstance();
         mDataBase = FirebaseDatabase.getInstance().getReference().child("Users");
@@ -82,10 +77,7 @@ public class Login extends AppCompatActivity {
 
         email = (EditText) findViewById(R.id.edit_text_email_id);
         password = (EditText) findViewById(R.id.edit_text_password);
-/*
-        Toolbar toolbar = (Toolbar) findViewById(R.id.app_bar);
-        setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Login");*/
+
 
         //Resetting Password of Registered Email ID
         resetPassword = (TextView)findViewById(R.id.textViewForgetPass);
@@ -158,7 +150,7 @@ public class Login extends AppCompatActivity {
                                     user.setEmail(object.getString("email"));
                                     user.setId(object.getString("id").toString());
                                     user.setName(object.getString("name").toString());
-                                    // user.setGender(object.getString("gender").toString());
+                                   // user.setGender(object.getString("gender").toString());
 
                                 }
                                 catch (Exception e) {
@@ -243,12 +235,14 @@ public class Login extends AppCompatActivity {
     //Goes to SignUp Activity for registering User
     public void onSignUpClicked(View view) {
         Intent intent = new Intent(this, SignUp.class);
+
         startActivity(intent);
+        finish();
     }
 
     //Login User
     public void onLoginClicked(View view) {
-        // setUpUser();
+       // setUpUser();
         signIn(email.getText().toString(), password.getText().toString());
 
     }
@@ -287,14 +281,15 @@ public class Login extends AppCompatActivity {
                                 Toast.makeText(Login.this,"You are in =)",Toast.LENGTH_LONG).show();
 
                                 Intent intent = new Intent(getApplicationContext(), MainActivity.class);
-                                startActivity(intent);
                                 finish();
+                                startActivity(intent);
+
                             }
 
                             else {
 
                                 //---- HERE YOU SEND THE EMAIL
-                                //  mUser.sendEmailVerification();
+                              //  mUser.sendEmailVerification();
                                 Toast.makeText(Login.this,"Verify your email first...",Toast.LENGTH_LONG).show();
                                 FirebaseAuth.getInstance().signOut();
                             }
@@ -342,7 +337,7 @@ public class Login extends AppCompatActivity {
     private void signInWithFacebook(AccessToken token) {
         Log.d(TAG, "signInWithFacebook:" + token);
 
-        showProgressDialog();
+               showProgressDialog();
 
 
         AuthCredential credential = FacebookAuthProvider.getCredential(token.getToken());
@@ -470,7 +465,7 @@ public class Login extends AppCompatActivity {
                                 }
 
                                 progressBar1.setVisibility(View.GONE);
-                                // dialog.dismiss();
+                               // dialog.dismiss();
                             }
                         });
 
@@ -488,7 +483,7 @@ public class Login extends AppCompatActivity {
         current_user_db.child("name").setValue(user.getName());
         current_user_db.child("FacebookId").setValue(user.getId());
         current_user_db.child("Email").setValue(user.getEmail());
-        // current_user_db.child("Gender").setValue(user.getGender());
+       // current_user_db.child("Gender").setValue(user.getGender());
     }
 
     private void CreateGoogleUserInDataBase(){
