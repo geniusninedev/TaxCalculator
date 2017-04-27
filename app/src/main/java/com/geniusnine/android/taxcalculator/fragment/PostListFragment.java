@@ -25,6 +25,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.MutableData;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.Transaction;
+import com.google.firebase.database.ValueEventListener;
 
 public abstract class PostListFragment extends Fragment {
 
@@ -145,7 +146,7 @@ public abstract class PostListFragment extends Fragment {
                         onStarClicked(userPostRef);
                     }
                 });
-                loading.dismiss();
+
                 mAdapter.registerAdapterDataObserver(new RecyclerView.AdapterDataObserver() {
                     @Override
                     public void onItemRangeInserted(int positionStart, int itemCount) {
@@ -166,6 +167,18 @@ public abstract class PostListFragment extends Fragment {
             }
 
         };
+
+        mDatabase.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+                loading.dismiss();
+            }
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {
+
+            }
+        });
 
         mRecycler.setAdapter(mAdapter);
 
