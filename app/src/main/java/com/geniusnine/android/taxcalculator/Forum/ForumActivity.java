@@ -9,8 +9,10 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 
+import com.geniusnine.android.taxcalculator.MainActivity;
 import com.geniusnine.android.taxcalculator.R;
 import com.geniusnine.android.taxcalculator.fragment.MyTopPostsFragment;
 import com.geniusnine.android.taxcalculator.fragment.RecentPostsFragment;
@@ -58,6 +60,7 @@ public class ForumActivity extends BaseActivity {
         findViewById(R.id.fab_new_post).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                finish();
                 startActivity(new Intent(ForumActivity.this, NewPostActivity.class));
             }
         });
@@ -72,5 +75,6 @@ public class ForumActivity extends BaseActivity {
         }
 
     }
+
 
 }

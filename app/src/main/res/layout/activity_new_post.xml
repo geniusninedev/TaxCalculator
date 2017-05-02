@@ -6,7 +6,16 @@
     tools:context="Forum.NewPostActivity"
     android:orientation="vertical">
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical" >
     <EditText
         android:id="@+id/field_title"
         android:layout_width="match_parent"
@@ -45,7 +54,8 @@
         android:layout_alignRight="@+id/field_body"
         android:layout_alignEnd="@+id/field_body"
         android:layout_alignLeft="@+id/field_body"
-        android:layout_alignStart="@+id/field_body" /> /
-    >
+        android:layout_alignStart="@+id/field_body" />
 
+</LinearLayout>
+    </ScrollView>
 </RelativeLayout>
