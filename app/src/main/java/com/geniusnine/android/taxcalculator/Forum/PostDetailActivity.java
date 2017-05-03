@@ -330,11 +330,18 @@ public class PostDetailActivity extends BaseActivity implements View.OnClickList
         int id = item.getItemId();
         //noinspection SimplifiableIfStatement
         if (id == android.R.id.home) {
-            Intent intent=new Intent(PostDetailActivity.this,MainActivity.class);
+            Intent intent=new Intent(PostDetailActivity.this,ForumActivity.class);
             finish();
             startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
     }
 
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        Intent intent=new Intent(PostDetailActivity.this,ForumActivity.class);
+        finish();
+        startActivity(intent);
+    }
 }
